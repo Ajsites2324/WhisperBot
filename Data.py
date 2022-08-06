@@ -14,7 +14,9 @@ Only that friend and you will be able to read the message even though others are
 
 To see how to use me press 'How to Use' below.
 
-By @StarkBots
+By➪» @PAPA_BOL_SAKTEHO ❤︎
+
+Feelings➪» @ABOUT_AJEET
     """
 
     # Home Button
@@ -31,24 +33,24 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/ajeet_bots")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/MODERN_ELEMENTS")],
     ]
 
     # Help Message
     HELP = """
 Just type the message in below format in any chat.
 
-`@WhisperStarkBot your_message friend_username/id`
+`@Whisrobot your_message friend_username/id`
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @AJEET_BOTS
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/WhisperBot)
+Source Code : [Click Here](https://github.com/Ajsites2324/WhisperBot)
 
 Inspired By : nnbbot
 
@@ -56,5 +58,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : [𓆩〭⃛〬𓆩〭⃛〬➤⃝✖‿✖•Ajͥeeͣtͫ](https://t.me/papa_bol_sakteho)
     """
